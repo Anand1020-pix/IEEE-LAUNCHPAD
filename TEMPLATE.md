@@ -1,58 +1,44 @@
-# Full Name 
+# Vishnu J
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Highly analytical and technically adept engineering graduate with a solid foundation in problem-solving. Passionate about translating complex data into actionable insights and eager to apply theoretical knowledge in a practical, data-driven environment. Committed to continuous learning and professional development in the field of technology.
+
 
 
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Name                | Description                                                               | 
+|---------------------|---------------------------------------------------------------------------|
+| **Government Service Appointment System**  | The Government Service Appointment Booking System app simplifies scheduling for services like passport renewals, permits, and healthcare. Users can browse slots, book convenient times, and receive reminders. With secure authentication and integrated payments, it ensures efficient and transparent access to essential services.                                             | 
+| **Expense Tracker**  | A mobile application that helps users track their daily expenses                                              |             |
 
-#### Leadership and Influence:
+#### Leadership and Influence
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- Led multiple initiatives and coordinated events, demonstrating exceptional communication, teamwork, and leadership skills.
+- Actively participated in organizing activities, event management, and crisis handling, enhancing problem-solving abilities and time management skills.
 
-#### Networking:
+#### Networking
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- Cultivated a robust network through effective communication and active participation in professional organizations like IEEE and NSS.
+- Regularly attend and speak at events to share knowledge, foster connections, and engage with industry professionals. Planning to expand engagement through online forums, social media, LinkedIn, and offline conferences/meetups.
 
-#### Career Plan:
+#### Career Plan
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- **Immediate Plans**: [Please provide your immediate plans]
+- **Longer-term Plans**: [Please provide your longer-term plans to contribute to the Kerala Startup Ecosystem]
 
-#### Thoughts on Kerala's Tech Ecosystem:
+#### Thoughts on Kerala's Tech Ecosystem
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- [Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future]
 
-#### History of Open Source Contributions:
+#### History of Open Source Contributions
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- [Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community]
 
-#### History of Community Engagement:
+#### History of Community Engagement
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+- Volunteered for NSS Unit 209.
 
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----
